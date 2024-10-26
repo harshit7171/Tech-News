@@ -1,4 +1,4 @@
-# Tech-News
+# Tech-Samachar
 
 **Author : Harshit Kansal**
 
